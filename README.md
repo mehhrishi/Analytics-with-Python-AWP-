@@ -1,1 +1,3 @@
-# Analytics-with-Python-AWP-
+# Analytics with Python (AWP)
+
+Python is a popular programming language for data analysis and visualization. There are several libraries and frameworks available in Python for data analytics such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, etc. These libraries provide a wide range of tools for data manipulation, statistical modeling, machine learning, and visualization. With the help of these libraries, data analysts can perform various tasks such as data cleaning, data wrangling, data exploration, data visualization, and data modeling. Additionally, Jupyter Notebook is a popular tool for prototyping and sharing data analysis code in Python.
